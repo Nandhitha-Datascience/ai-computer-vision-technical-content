@@ -155,3 +155,15 @@ From digitizing documents to processing invoices and receipts, OCR is used in ma
 ### Key Takeaway
 
 **OCR allows computers to read and extract text from images.**
+
+## References
+
+1. Google Cloud. *Detect and Extract Text from Images — Cloud Vision API*.
+   [https://docs.cloud.google.com/vision/docs/ocr](https://docs.cloud.google.com/vision/docs/ocr?utm_source=chatgpt.com)
+
+2. Google Cloud. *Cloud Vision API — How-to Guides*.
+   [https://docs.cloud.google.com/vision/docs/how-to](https://docs.cloud.google.com/vision/docs/how-to?utm_source=chatgpt.com)
+
+3. Google Cloud. *Cloud Vision API — Features List*.
+   [https://docs.cloud.google.com/vision/docs/features-list](https://docs.cloud.google.com/vision/docs/features-list?utm_source=chatgpt.com)
+
