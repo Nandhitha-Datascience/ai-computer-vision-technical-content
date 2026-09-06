@@ -33,13 +33,13 @@ An introduction to Computer Vision, how it works, and its applications in the re
 
 A simple comparison between two common Computer Vision tasks, including how they work and where they are used.
 
-📄 `02-image-classification-vs-object-detection.md`
+📄 [Read the article](02-image-classification-vs-object-detection.md)
 
 ### 3. How Does OCR Work?
 
 An introduction to Optical Character Recognition (OCR) and how computers extract text from images and documents.
 
-📄 `03-how-ocr-works.md`
+📄 [Read the article](03-how-ocr-works.md)
 
 ## 🎯 Objectives
 
